@@ -38,7 +38,7 @@ pdflatex -interaction=nonstopmode duran_sicimler_teoremi_I_EN.tex
   title  = {Duran Sicimler Teoremi: Zamanın ve Entropinin Yokluğunda Mükemmel Düzenin Yeniden Doğuşu},
   year   = {2025},
   doi    = {10.5281/zenodo.YYYYYYY},
-  url    = {https://github.com/fahrim/duran-sicimler-I}
+  url    = {https://github.com/fahrim/stationary-strings-i}
 }
 ```
 
